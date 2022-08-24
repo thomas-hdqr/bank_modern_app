@@ -27,7 +27,6 @@ const Hero = () =>  (
             <GetStarted />
           </div>
         </div>
-
       </div>
 
     </section>
